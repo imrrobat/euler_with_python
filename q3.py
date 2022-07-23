@@ -1,5 +1,4 @@
 #Code By MrRobot
-#Plz Subscribe!
 
 from math import sqrt
 
