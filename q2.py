@@ -1,5 +1,4 @@
 #Code By MrRobot
-#Plz Subscribe!
 
 s,c = 0,0
 a,b = 1,2
