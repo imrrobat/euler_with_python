@@ -1,10 +1,15 @@
-# euler_with_python
-my coding solution for project euler  with python! 
+# پروژه اویلر با پایتون 🧠
+## راه‌حل‌های من برای وبسایت پروژه اویلر
 
-my youtube channel:
-https://www.youtube.com/channel/UCvAMWdwUsplcY_5bcIbBDOQ
-
-if you are persian and you want to learn python:
-https://www.instagram.com/learnpy/
-
-good luck :)
+<h1 align="right">راه‌حل‌های من برای وبسایت پروژه اویلر 🤓</h1>
+<br>
+<p align="right">
+    💡 حل و توضیح سوال 1 تا 3 : https://youtu.be/gvzY_I2nhfQ
+</p>
+<p align="right">
+    💡 حل و توضیح سوال 4 تا 6 : https://youtu.be/CscyrfIKqP8
+</p>
+<br>
+<p align="right">
+    💭 اگر مشتاق یادگیری پایتون هستین یه سر به اینستاگرامم بزنیدhttps://www.instagram.com/learnpy/
+</p>
